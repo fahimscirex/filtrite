@@ -1,5 +1,8 @@
 # Energized Ultimate
-https://block.energized.pro/ultimate/formats/hosts.txt
+#https://block.energized.pro/ultimate/formats/hosts.txt
+
+# Energized Spark
+https://block.energized.pro/spark/formats/filter
 
 # Adflit's Annoyances List
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList
